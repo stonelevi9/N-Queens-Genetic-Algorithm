@@ -1,2 +1,3 @@
 # N-Queens-Genetic-Algorithm
 A Genetic Algorithm Approach to solving the N-Queens problem.
+This Java program is a genetic algorithm approach to solving an N-Queens problem. For anyone unfamiliar with the N-Queens problem, it essentially is solving for the orientation on a nXn chess board of N Queens such that they all sit without any two queens attacking one another. This program uses a genetic algorithm which is an algorithm inspired by natural selection where binary strings are used to simulate DNA code and as the populations evolve they undergo different biological aspects of natural selection such as mutation, crossover, reproduction, and survival of the fittest.
